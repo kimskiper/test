@@ -1,27 +1,27 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.30723.0
+VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "LiveHelpWebService(1)", "http://localhost:49487", "{3BCC904F-B1F5-465F-94A0-B7D9E4698571}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "LiveHelpWebService", "http://localhost:62670", "{3282D3B2-6E35-488C-93CC-3CD8972F4041}"
 	ProjectSection(WebsiteProperties) = preProject
 		UseIISExpress = "true"
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv3.5"
-		Debug.AspNetCompiler.VirtualPath = "/localhost_49487"
-		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\..PROJECTS\LiveChat\LiveHelpWebService\LiveHelpWebService\"
-		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49487\"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_62670"
+		Debug.AspNetCompiler.PhysicalPath = "LiveHelpWebService\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_62670\"
 		Debug.AspNetCompiler.Updateable = "true"
 		Debug.AspNetCompiler.ForceOverwrite = "true"
 		Debug.AspNetCompiler.FixedNames = "false"
 		Debug.AspNetCompiler.Debug = "True"
-		Release.AspNetCompiler.VirtualPath = "/localhost_49487"
-		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\..PROJECTS\LiveChat\LiveHelpWebService\LiveHelpWebService\"
-		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49487\"
+		Release.AspNetCompiler.VirtualPath = "/localhost_62670"
+		Release.AspNetCompiler.PhysicalPath = "LiveHelpWebService\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_62670\"
 		Release.AspNetCompiler.Updateable = "true"
 		Release.AspNetCompiler.ForceOverwrite = "true"
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
-		SlnRelativePath = "..\..\..\..\..\..\..PROJECTS\LiveChat\LiveHelpWebService\LiveHelpWebService\"
+		SlnRelativePath = "LiveHelpWebService\"
 	EndProjectSection
 EndProject
 Global
@@ -29,8 +29,8 @@ Global
 		Debug|Any CPU = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3BCC904F-B1F5-465F-94A0-B7D9E4698571}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3BCC904F-B1F5-465F-94A0-B7D9E4698571}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3282D3B2-6E35-488C-93CC-3CD8972F4041}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3282D3B2-6E35-488C-93CC-3CD8972F4041}.Debug|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
