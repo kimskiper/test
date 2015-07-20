@@ -3,20 +3,20 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "LiveHelpWebService", "http://localhost:62670", "{3282D3B2-6E35-488C-93CC-3CD8972F4041}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "LiveHelpWebService", "LiveHelpWebService\", "{3282D3B2-6E35-488C-93CC-3CD8972F4041}"
 	ProjectSection(WebsiteProperties) = preProject
 		UseIISExpress = "true"
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv3.5"
-		Debug.AspNetCompiler.VirtualPath = "/localhost_62670"
+		Debug.AspNetCompiler.VirtualPath = "/WebService"
 		Debug.AspNetCompiler.PhysicalPath = "LiveHelpWebService\"
-		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_62670\"
+		Debug.AspNetCompiler.TargetPath = "LiveHelpWebService\"
 		Debug.AspNetCompiler.Updateable = "true"
 		Debug.AspNetCompiler.ForceOverwrite = "true"
 		Debug.AspNetCompiler.FixedNames = "false"
 		Debug.AspNetCompiler.Debug = "True"
-		Release.AspNetCompiler.VirtualPath = "/localhost_62670"
+		Release.AspNetCompiler.VirtualPath = "/WebService"
 		Release.AspNetCompiler.PhysicalPath = "LiveHelpWebService\"
-		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_62670\"
+		Release.AspNetCompiler.TargetPath = "LiveHelpWebService\"
 		Release.AspNetCompiler.Updateable = "true"
 		Release.AspNetCompiler.ForceOverwrite = "true"
 		Release.AspNetCompiler.FixedNames = "false"
